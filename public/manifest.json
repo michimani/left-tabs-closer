@@ -1,6 +1,6 @@
 {
 	"manifest_version": 3,
-	"name": "Close Left Tabs",
+	"name": "Left Tabs Closer",
 	"description": "Close all tabs to the left of the current tab",
 	"version": "1.0",
 	"icons": {
