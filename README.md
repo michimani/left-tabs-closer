@@ -1,6 +1,8 @@
 Left Tabs Closer
 ===
 
+![banner](./docs/banner.png)
+
 This is a Chrome extension that closes all tabs to the left of the currently open tab.
 
 # Features
