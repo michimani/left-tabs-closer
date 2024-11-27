@@ -5,7 +5,7 @@ Left Tabs Closer
 
 This is a Chrome extension that closes all tabs to the left of the currently open tab.
 
-This extension allows you to close all tabs to the left of the currently open tab in an instant.
+This extension allows you to close all tabs (not pinned) to the left of the currently open tab in an instant.
 
 # Features
 
@@ -13,7 +13,9 @@ This extension allows you to close all tabs to the left of the currently open ta
 
 # Usage
 
-TBD
+Install this extension from Chrome Web Store.
+
+[Left Tabs Closer - Chrome Web Store](https://chromewebstore.google.com/detail/left-tabs-closer/nclanpmebedjdcghioedaalpljfgclkl)
 
 # License
 
